@@ -1,0 +1,263 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.section1 {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1440px;
+}
+
+.section1heading {
+  width: 100%;
+ 
+  padding: 10px 0 9px;
+  background-color: #B36050;
+}
+
+.section1heading h2 {
+  font-size: 17px;
+  font-weight: 400px;
+  text-align: center;
+  color: #F1D3B9;
+
+  font-family: 'Roboto';
+}
+.section1ul {
+  margin: 0 auto;
+  width: 90%;
+}
+.section1items a{
+ 
+  text-decoration: none;
+  
+  color: #B4604D;
+}
+.section1items {
+  display: inline-block;
+}
+.section1items li {
+  display: inline-block;
+  font-size: 20px;
+   vertical-align: middle;
+  padding: 16px 32px;
+  
+}
+.logo {
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 109px;
+}
+.logo img {
+  width: 120px;
+  height: 60px;
+}
+.logo img{max-width: 100%;}
+.section1items2 {
+  display: inline-block;
+  
+}
+.section1items2 li {
+  display: inline-block;
+  
+}
+.section1items2 a {
+  display: inline-block;
+  color: #B45F4D;
+  padding: 19px 0;
+  margin-left: 200px;
+  text-decoration: none;
+}
+.logo1 {
+  display: inline-block;
+}
+.logo1 img {
+  display: inline-block;
+  margin-left: 40px;
+  margin-right: 4px;
+}
+.section1p {
+  display: inline-block;
+  color:#B4604D;
+}
+.section1img {
+  display: inline-block;
+  background-color: #A9AE8D;
+}
+.section1img {max-width: 100%;}
+.section1text {
+  display: inline-block;
+  max-width: 100%;
+  background-color: #A9AE8D;
+}
+.section1p1 {
+  margin: 69px 599px 0px;
+  width: 242px;
+  height: 67px;
+  color: white;
+  font-family: 'Roboto';
+}
+.section1p2 {
+  margin: 15px 492px 0;
+  width: 456px;
+ 
+  font-size: 26px;
+  color: white;
+  font-family: 'Roboto';
+}
+.section1link {
+  display: inline-block;
+  padding: 28px 658.5px 37px;
+  background-color: #A9AE8D;
+}
+.section1link a{
+  display: inline-block;
+  padding: 9px 20px 10px;
+  text-decoration: none;
+  background-color: #B45F4D;
+  color: white;
+}
+.section2 {
+  margin:0 auto;
+  width: 90%;
+  max-width: 1440px;
+  background-color: #F6F4EC;
+}
+.section2heading {
+  display: inline-block;
+}
+.section2heading h2 {
+  display: inline-block;
+  color: #B45F4D;
+  padding: 39px 615px 0;
+}
+.section2images {
+  display: inline-block;
+  padding: 64px 125px 0;
+}
+  .img1 {
+  display: inline-block;
+  
+}
+.p1 {
+  color: #B45F4D;
+  margin-top: 35px;
+  font-size: 26px;
+  
+}
+ .price1 {
+  color: #B45F4D;
+  margin-top: 20px; 
+  font-size: 25px;
+}
+.strelka1 {
+  display: inline-block;
+  margin-top: 25px;
+ padding-bottom: 15px;
+}
+.img2 {
+  display: inline-block;
+  margin-left: 72px;
+ 
+}
+.p2 {
+  color: #B45F4D;
+  margin-top: 72px;
+  font-size: 26px;
+}
+.price2 {
+  color: #B45F4D;
+  margin-top: 38px;
+  font-size: 25px;
+  padding-bottom: 100px;
+}
+  .img3 {
+
+  display: inline-block;
+ margin-left: 72px;
+}
+.p3 {
+  color:#B45F4D ;
+  font-size: 18px;
+  margin-top: 50px;
+}
+.price3 {
+  color:#B45F4D ;
+  font-size: 25px;
+  margin-top: 18px;
+}
+.strelka3 {
+  display: inline-block;
+  margin-top: 20px;
+ padding-bottom: 15px;
+ margin-left: 290px;
+}
+.section3 {
+  margin:0 auto;
+  width: 90%;
+  max-width: 1440px;
+  height: 400px;
+  
+  background-repeat: no-repeat;
+ 
+  background-image: url(../images/picture\ 7.png);
+}
+
+.section3bcg {
+  padding: 271px 0 44px;
+ 
+  
+}
+.section3bcg p{
+  display: inline-block;
+  background-color: #DF9B7A;
+  width: 92.5%;
+  height: 92px;
+  padding: 30px 0 30px 29px;
+ 
+  color: white;
+  
+}
+.section4 {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1440px;
+  background-color: #F1D3B9;
+}
+.section4items {
+  display: inline-block;
+  width: 90%;
+  padding: 97px 0 67px 116px;
+}
+.section4img {
+  display: inline-block;
+  
+}
+.section4text {
+  display: inline-block;
+  background-color: white;
+  color: #B45F4D;
+  width: 500px;
+  margin-left: 50px;
+  
+  
+}
+.section4heading {
+  display: inline-block;
+   padding: 175px 185px 0;
+}
+.section4p {
+  display: inline-block;
+  height: 350px;
+  width: 416px;
+  margin: 53px 30px 0;
+  font-size: 26px;
+}
+.section4link {
+  text-decoration: none;
+  color: #B45F4D;
+  margin: 60px 379px 5px 41px;
+  
+}
